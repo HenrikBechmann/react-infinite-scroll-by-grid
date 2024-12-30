@@ -419,6 +419,10 @@ export default class ServiceCache {
             let insertlowshift = Math.min(index - lowindex,0)
             newListRange = [lowindex + insertlowshift, highindex + changecount + insertlowshift]
         }
+        const [low, high] = newListRange
+        if (high < low) {
+            newListRange = []
+        }
 
         serviceHandler.newListRange = newListRange
 
