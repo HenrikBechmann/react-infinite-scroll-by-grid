@@ -1,7 +1,7 @@
 # react-infinite-grid-scroller (RIGS)
 Heavy-duty vertical or horizontal infinite scroller
 
-[![npm](https://img.shields.io/badge/npm-2.2.4-brightgreen)](https://www.npmjs.com/package/react-infinite-grid-scroller) [![licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE.md)
+[![npm](https://img.shields.io/badge/npm-2.2.5-brightgreen)](https://www.npmjs.com/package/react-infinite-grid-scroller) [![licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE.md)
 
 # Key Features
 
