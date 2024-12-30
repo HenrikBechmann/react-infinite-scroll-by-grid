@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.5 December 30, 2024
+
+- bug fix: range high underflow with final removeIndex
+
 ## 2.2.4 June 9, 2024
 
 - update modules
